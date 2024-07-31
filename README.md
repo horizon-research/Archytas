@@ -4,6 +4,18 @@ This repo contains the code of Archytas: A Framework for Synthesizing and Dynami
 
 To run the demo, use python to run `localization_demo.py`.
 
+
+
+## Build the project
+```
+git clone https://github.com/horizon-research/Archytas.git
+cd Archytas
+mkdir build
+cd build
+cmake ..
+make
+```
+
 ## Citation
 
 If you think this work is useful in your research, please consider cite our paper:
