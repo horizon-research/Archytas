@@ -16,6 +16,8 @@ cmake ..
 make
 ```
 
+This demo contains a large-scale localization problem.
+
 ## Citation
 
 If you think this work is useful in your research, please consider cite our paper:
